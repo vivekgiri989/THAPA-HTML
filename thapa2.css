@@ -1,0 +1,9 @@
+.article{
+    background-color: bisque;
+    font-size: larger;
+}
+.nav{
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+}
