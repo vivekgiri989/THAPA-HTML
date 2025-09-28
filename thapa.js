@@ -8,3 +8,12 @@ console.log("this is second console");
 
 let man = "thapa singh ji ";
 let add = "vill";
+console.log(23 * 23);
+
+let firstObject = {
+    item: "bat",
+    price: "2500",
+    color: "black",
+    warranty: "1 year"
+}
+
